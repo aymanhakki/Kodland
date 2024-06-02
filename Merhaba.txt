@@ -1,0 +1,2 @@
+print("MerhabaDünya");
+Emirin canı python kodu yazmak istemiş
