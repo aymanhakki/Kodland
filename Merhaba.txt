@@ -1,2 +1,3 @@
 print("MerhabaDünya");
-Emirin canı python kodu yazmak istemiş
+Emirin canı c# kodu yazmak istemiş
+alide sıkılmış 
